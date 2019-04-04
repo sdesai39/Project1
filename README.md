@@ -7,3 +7,4 @@ This Project uses the Los Angeles Parking Citations dataset from Kaggle.com
 Questions we will raise...
 Type of cars that get the most citations?
 Areas/streets with the most citations?
+Type of citation?
